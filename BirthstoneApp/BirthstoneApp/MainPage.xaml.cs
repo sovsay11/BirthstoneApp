@@ -14,5 +14,10 @@ namespace BirthstoneApp
         {
             InitializeComponent();
         }
+
+        private void PckrMonths_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
