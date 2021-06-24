@@ -4,15 +4,19 @@
              x:Class="BirthstoneApp.MainPage">
 
     <StackLayout BackgroundColor="WhiteSmoke">
-        <Frame BackgroundColor="LightGray">
+        <!--Title section-->
+        <Frame BackgroundColor="LightGray"
+               BorderColor="Black">
             <Label Text="Noah's Birthstone App"
                    FontSize="Title"
                    HorizontalTextAlignment="Center"
                    TextColor="Black"/>
         </Frame>
 
-        <Frame CornerRadius="30"
-               Margin="15">
+        <!--Picker for months-->
+        <Frame CornerRadius="10"
+               Margin="15"
+               BorderColor="Black">
             <Picker x:Name="PckrMonths"
                     Title="Select a month"
                     TextColor="Black"
@@ -36,14 +40,18 @@
             </Picker>
         </Frame>
 
+        <!--Label and image to show associated birth stone-->
         <Frame x:Name="FrameBirthstone"
                CornerRadius="10"
-               Margin="15">
+               Margin="15"
+               BorderColor="Black">
             <StackLayout>
-            <Label Text="Your birthstone is..."
+            <Label x:Name="LblBirthStone"
+                   Text="Your birthstone is a(n)..."
                    FontSize="Medium"
                    TextColor="Black"
-                   HorizontalTextAlignment="Center"/>
+                   HorizontalTextAlignment="Center"
+                   Margin="0, 0, 0, 20"/>
                 <Image x:Name="ImgGems"
                        WidthRequest="200"/>
             </StackLayout>
