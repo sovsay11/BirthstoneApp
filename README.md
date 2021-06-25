@@ -38,7 +38,7 @@ This app was created to showcase various features of Xamarin.Forms in a mobile a
     
 Image of the UI:
 <p align="center">
-<img src="https://github.com/sovsay11/sovsay11/blob/ea7f34ac25222100386d4b1e8496d8a4ca995e08/BirthstoneUI%5B1%5D.jpg" alt="Image of Personality Quiz UI" height="30%" width="30%"/>
+<img src="https://github.com/sovsay11/sovsay11/blob/ea7f34ac25222100386d4b1e8496d8a4ca995e08/BirthstoneUI%5B1%5D.jpg" alt="Image of Birthstone App UI" height="30%" width="30%"/>
 </p>
 
 ## Contact
