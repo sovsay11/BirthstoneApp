@@ -35,6 +35,11 @@ https://github.com/sovsay11/BirthstoneApp.git
 
 ## Usage
 This app was created to showcase various features of Xamarin.Forms in a mobile app environment. Specifically, this app demonstrates the use of dictionaries, pickers, and C# to create a birthstone retriever.
+    
+Image of the UI:
+<p align="center">
+<img src="https://github.com/sovsay11/sovsay11/blob/ea7f34ac25222100386d4b1e8496d8a4ca995e08/BirthstoneUI%5B1%5D.jpg" alt="Image of Personality Quiz UI" height="30%" width="30%"/>
+</p>
 
 ## Contact
 Noah Say - sovannarasay11@gmail.com - <a href="https://www.linkedin.com/in/noah-say-0b6210187/">LinkedIn</a>
