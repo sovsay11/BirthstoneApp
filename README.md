@@ -1,4 +1,4 @@
-<h1 align="center">Personality Quiz App</h1>
+<h1 align="center">Birthstone App</h1>
 
 <!--About The Project-->
 ## About The Project
