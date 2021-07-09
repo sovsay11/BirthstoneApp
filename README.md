@@ -29,7 +29,7 @@ Once that is done, unzip the folder and open the project in VS by launching the 
 If you want to clone this repository for future use instead of downloading the zipped folder, you can do so by running the following command(s) in Git:
 
 ```sh
-https://github.com/sovsay11/BirthstoneApp.git
+git clone https://github.com/sovsay11/BirthstoneApp.git
 ```
     
 
